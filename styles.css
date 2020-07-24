@@ -1,0 +1,46 @@
+/* practical 1 to 4 */
+
+.image {
+  width: 70%;
+}
+
+.index-background {
+  background-color: lightyellow;
+}
+
+.practical-4-body {
+  background-color: lightyellow;
+}
+
+.offline-image {
+  text-align: center;
+}
+
+.live-image {
+  text-align: center;
+}
+
+.document-block {
+  font-size: 1.5rem;
+}
+
+.inner {
+  margin-left: 65px;
+}
+
+/* Colour Section */
+.red-color {
+  color: red;
+}
+
+.blue-color {
+  color: blue;
+}
+
+.skyblue-color {
+  color: skyblue;
+}
+
+.green-color {
+  color: green;
+}
